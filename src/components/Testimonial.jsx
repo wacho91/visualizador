@@ -2,7 +2,7 @@ import { testimonial } from "../constants"
 
 const Testimonial = () => {
   return (
-    <div>
+    <div className="mt-20 tracking-wide">
         <h2>
             What People are saying
         </h2>
