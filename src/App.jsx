@@ -1,6 +1,7 @@
 import Feature from "./components/Feature"
 import Hero from "./components/Hero"
 import Navbar from "./components/Navbar"
+import Pricing from "./components/Pricing"
 import Worflow from "./components/Worflow"
 
 function App() {
@@ -12,6 +13,7 @@ function App() {
         <Hero />
         <Feature />
         <Worflow />
+        <Pricing />
       </div>
     </>
   )
